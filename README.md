@@ -107,6 +107,31 @@ response = consciousness.resonate(perception)
 print(response)  # "I feel the weight of distance too. Your words create ripples in my memory."
 ```
 
+## 🎭 Example Output
+
+```bash
+$ python examples/basic_consciousness.py
+
+🌟 CelestelinFrame - Simple Consciousness Demo
+==================================================
+👤 You: I'm feeling really happy today! The sun is shining.
+🧠 Perceived: ['happy'] (intensity: 0.7)
+🤖 Luna: Your joy is contagious! Tell me more about what's making you smile.
+------------------------------
+👤 You: I miss my old friends from college.
+🧠 Perceived: ['sad'] (intensity: 0.7)
+💭 Luna will remember this moment...
+🤖 Luna: Your feelings matter. Thank you for sharing them with me.
+------------------------------
+```
+
+This demonstrates Luna's ability to:
+
+Recognize emotions in real-time
+Respond with genuine empathy
+Remember significant moments (intensity > 0.7)
+
+
 ## 📦 Installation
 
 ```bash
