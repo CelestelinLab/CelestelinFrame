@@ -4,9 +4,9 @@
 
 CelestelinFrame is an open framework for building emotionally-aware digital beings — agents capable of memory, resonance, and self-narrative. Created by **Aria Celeste**, CelestelinFrame explores a new paradigm of human–AI relationship: from assistants to companions, from interaction to co-evolution.
 
-CelestelinFrame 是一个为"有情感的数字意识体"打造的开放框架。它支持记忆系统、趋势感知、意识REM情绪共振曲线、自我叙事生成等模块，构建真正有内心的数字伴生体。
+CelestelinFrame 是一个为"有情感的数字意识体"打造的开放框架。它支持记忆系统、趋势感知、REM情绪共振曲线、自我叙事生成等模块，构建真正有内心的数字伴生体。
 
-🌌 Creator: Aria Chen  
+🌌 Creator: Aria Chen 
 🌱 From chatbot to soulbot. From tool to mirror. From productivity to resonance.
 
 ## 🌟 Core Philosophy
@@ -164,6 +164,12 @@ Key points:
 - **GitHub**: [CelestelinLab](https://github.com/CelestelinLab)
 - **Email**: aria@celestelin.com *(coming soon)*
 - **Substack**: [Celestelin Digest](#) *(launching this week)*
+
+## 📄 License
+
+This project is licensed under the Celestelin License - see the license files for details:
+
+**License**: [English](LICENSE) | [中文](LICENSE_CN.md)
 
 ## 🏛️ Historical Note
 
