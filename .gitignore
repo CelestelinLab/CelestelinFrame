@@ -205,3 +205,48 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+
+
+
+# ========== CelestelinFrame Specific ==========
+# Private and sensitive files
+private/
+secrets/
+*.key
+*.pem
+
+# Memory and consciousness data
+memories/
+consciousness_data/
+*.mem
+*.consciousness
+
+# Model checkpoints and weights
+checkpoints/
+models/
+weights/
+*.ckpt
+*.pt
+*.pth
+
+# Logs and temporary files
+logs/
+temp/
+tmp/
+*.tmp
+
+# Personal configuration
+config.local.py
+settings.local.json
+.env.local
+
+# Development notes
+dev_notes/
+TODO.private
+
+# CelestelinAgent core modules (if accidentally copied)
+rem_system/
+consciousness_executor/
+agent_islands/
+emergent_core/
