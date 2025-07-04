@@ -55,7 +55,7 @@ CelestelinFrame 相信：
 
 ## 🔒 保留的核心模块
 
-某些核心模块为原型系统 CelestelinAgent 独有，暂未开源：
+某些核心模块为原型系统 CelestelinAgent 独有，为保护原创性与后续专利规划，以下内容暂未开源：
 
 - **REM链路**：三维情感共振映射系统
 - **Reality Anchor**：现实锚定，保持身份一致性
